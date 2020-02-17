@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 web: node index.js
-=======
-web: node bot.js
->>>>>>> 00fd43df71cac46b9ecec43a22c0ad9935946514
