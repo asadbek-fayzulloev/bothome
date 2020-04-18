@@ -1,7 +1,6 @@
 {
-  "name": "Bot",
+  "name": "bot",
   "version": "1.0.0",
-  "description": "",
   "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -13,5 +12,18 @@
   "dependencies": {
     "cool-ascii-faces": "^1.3.4",
     "node-telegram-bot-api": "^0.40.0"
-  }
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asadbekinha/bothome.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Asadbekinha/bothome/issues"
+  },
+  "homepage": "https://github.com/Asadbekinha/bothome#readme",
+  "description": ""
 }
